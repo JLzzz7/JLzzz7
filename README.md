@@ -1,10 +1,10 @@
-># TITULO
-Mucho texto mucho texto mucho texto mucho texto blah blah blah...
+># README
+>Esto deberia verse en mi perfil
 
 ![doggo-doge](https://github.com/user-attachments/assets/6fe4237b-fb58-4c49-853a-929682cdb60a)
 
 >[!WARNING]
->Puede haber un mensaje de advertencia
+>Ejemplo de mensaje de advertencia
 
 ![GitHub stars](https://img.shields.io/github/stars/JLzzz7/Prueba2?style=social)
 ![GitHub forks](https://img.shields.io/github/forks/JLzzz7/Prueba2?style=social)
@@ -12,4 +12,6 @@ Mucho texto mucho texto mucho texto mucho texto blah blah blah...
 ![GitHub license](https://img.shields.io/github/license/JLzzz7/Prueba2)
 
 ># ESTADISTICAS
+>Mis estadisticas en lo que va del tiempo
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JLzzz7)](https://github.com/JLzzz7/github-readme-stats)
